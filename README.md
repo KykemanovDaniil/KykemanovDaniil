@@ -12,27 +12,9 @@ I am a game developer currently learning and writing games in C++, but I also ha
 
 ### Tech Stack
 
-<p align="left">
-  <!-- C++ -->
-  <img src="https://shields.io" alt="C++" />
-  <!-- Godot -->
-  <img src="https://shields.io" alt="Godot Engine" />
-  <!-- CMake -->
-  <img src="https://shields.io" alt="CMake" />
-  <!-- Linux -->
-  <img src="https://shields.io" alt="Linux" />
-  <!-- Git -->
-  <img src="https://shields.io" alt="Git" />
-</p>
-
----
-
-### GitHub Stats
-
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="160" />
-  <img src="https://vercel.app" alt="Top Langs" height="160" />
-</p>
+* **Languages:** C++, GDscript
+* **Game Dev & Graphics:** Godot Engine, Raylib
+* **Tools & Environment:** CMake, Git
 
 ---
 
