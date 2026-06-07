@@ -19,5 +19,5 @@ I am a game developer currently learning and writing games in C++, but I also ha
 ---
 
 ### How to reach me
-* **Telegram:** [t.me/@Daniil_PMG]
+* **Telegram:** [@Daniil_PMG](https://t.me/Daniil_PMG)
 
